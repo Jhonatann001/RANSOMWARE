@@ -1,0 +1,39 @@
+Ransomware - Python2 Only
+
+⚠️ AVISO IMPORTANTE ⚠️
+
+Esta ferramenta é extremamente perigosa! Apenas para fins educativos. O uso indevido pode resultar em consequências legais graves. Eu, Jhonatan Souza, NÃO me responsabilizo por qualquer uso inadequado ou criminoso desta ferramenta.
+
+
+
+
+🛠️ Requisitos
+
+Python2.x (não funciona em Python3!)
+
+Biblioteca pyaes / os
+
+Permissão de execução no sistema operacional
+
+📥 Instalação das dependências:
+
+pip install pycrypto
+
+🚀 Como Usar
+
+Execute o script em Python2:
+
+python2 ransomware.py
+
+Insira o caminho do(s) arquivo(s) desejado(s) para criptografia.
+
+A ferramenta aplicará a criptografia automaticamente nos arquivos escolhidos.
+
+⚠️ Aviso Final ⚠️
+
+NÃO UTILIZE ESTA FERRAMENTA PARA ATIVIDADES ILEGAIS!
+Este código foi criado apenas para fins de estudo e aprendizado sobre segurança cibernética. O uso inadequado pode resultar em processos criminais.
+
+Desenvolvido por:
+📲 Me siga no Instagram: @jhonn.souzaa
+
